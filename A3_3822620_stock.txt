@@ -1,0 +1,4 @@
+shirt,6.0,11,medium
+pant,9.0,10,large
+skirt,4.0,15,small
+hat,10.0,3,medium
